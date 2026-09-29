@@ -369,7 +369,7 @@ This project is prepared for the Smart India Hackathon problem statement related
 
 ## Team
 
-- Team Name: AlgoRhythm
+- Team Name: AlgoRhythmm!
 - Team Leader: Soniya
 - Team Members: Vanshika, Priya, Sneha, Lucky, Prachi
 - College: Bhagat Phool Singh Mahila Vishwavidyala
